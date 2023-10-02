@@ -107,7 +107,7 @@ def main():
     #                 vectorstore)
     # Define the hardcoded file paths to your PDFs
     pdf_docs = [
-        "Master2.pdf"
+        "Master3.pdf"
         
     ]
 
