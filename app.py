@@ -107,7 +107,7 @@ def main():
     #                 vectorstore)
     # Define the hardcoded file paths to your PDFs
     pdf_docs = [
-        "Queries.pdf","FAQ(eps+conn).pdf"
+        "Master1-1.pdf"
         
     ]
 
