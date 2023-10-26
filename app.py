@@ -74,7 +74,7 @@ def handle_userinput(user_question):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="EkoBeta1")
+    st.set_page_config(page_title="Dev-C")
     st.write(css, unsafe_allow_html=True)
 
     if "conversation" not in st.session_state:
@@ -107,7 +107,7 @@ def main():
     #                 vectorstore)
     # Define the hardcoded file paths to your PDFs
     pdf_docs = [
-        "Master3.pdf"
+        "Master6.pdf"
         
     ]
 
